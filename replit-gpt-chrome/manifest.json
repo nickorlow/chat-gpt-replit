@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "ReplitGPT",
+    "description": "Copy code from ChatGPT to Replit!",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "run_at": "document_end",
+            "js": ["content.js"],
+            "matches": [
+                "https://replit.com/new/*",
+                "https://chat.openai.com/*"
+            ]
+        }
+    ],
+    "permissions": [
+        "activeTab"
+    ]
+}

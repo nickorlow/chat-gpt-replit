@@ -7,6 +7,7 @@ ReplitGPT is a Greasemonkey script (and in the future a firefox and chrome exten
 **Tested only on Firefox on MacOS and Linux.**
 
 Demo video + inspiration tweet: https://twitter.com/nickorIow/status/1599921677542248449
+
 Demo video (YouTube): https://www.youtube.com/watch?v=_6EvFr7yvgw
 
 ## Features

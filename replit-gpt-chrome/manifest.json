@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "ReplitGPT",
     "description": "Copy code from ChatGPT to Replit!",
     "version": "1.0",
@@ -15,5 +15,12 @@
     ],
     "permissions": [
         "activeTab"
-    ]
+    ],
+    "icons": {
+        "16":"icon.png",
+        "19": "icon.png",
+        "38": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
 }
